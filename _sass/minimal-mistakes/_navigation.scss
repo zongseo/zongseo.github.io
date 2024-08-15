@@ -226,6 +226,7 @@
     position: absolute;
     background-color: darken($background-color, 3%);
     // min-width: 160px;
+    width: 200%;
     box-shadow: $box-shadow;
     z-index: 1;
     box-sizing: border-box;
@@ -272,7 +273,7 @@
         bottom: 0;
         height: 4px;
         background: $primary-color;
-        width: 100%;
+        width: 200%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
