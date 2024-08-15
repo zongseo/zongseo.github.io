@@ -217,16 +217,14 @@
 // to be shared by both hidden link and visible link
   .dropdown {
     // float: left;
-    width: auto;
+    width: 100%;
     box-sizing: border-box;
-    position: relative; /* 부모 요소의 위치를 상대적으로 설정 */
   }
 
   .dropdown-content {
     display: none;
     position: absolute;
     background-color: darken($background-color, 3%);
-    width: 100%; /* 부모 요소의 너비에 맞추도록 설정 */
     // min-width: 160px;
     box-shadow: $box-shadow;
     z-index: 1;
