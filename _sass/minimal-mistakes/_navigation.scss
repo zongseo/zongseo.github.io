@@ -217,8 +217,7 @@
 // to be shared by both hidden link and visible link
   .dropdown {
     // float: left;
-    // width: auto;
-    position : relative;
+    width: 240px;
     box-sizing: border-box;
   }
 
@@ -226,7 +225,7 @@
     display: none;
     position: absolute;
     background-color: darken($background-color, 3%);
-    min-width: 160px;
+    width: 240px;
     box-shadow: $box-shadow;
     z-index: 1;
     box-sizing: border-box;
