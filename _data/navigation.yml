@@ -14,5 +14,7 @@ main:
         url: /categories/
       - title: "AI"
         url: /ai/
+      - title: "TECH NEWS"
+        url: /news/
       - title: "ETC"
         url: /etc/
