@@ -1,7 +1,7 @@
 ---
-title: "ETC"
-taxonomy: ETC
+title: "OTHER"
+taxonomy: Other
 layout: category
-permalink: /etc/
+permalink: /other/
 author_profile: true
 ---
