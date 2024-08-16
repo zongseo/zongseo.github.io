@@ -224,7 +224,7 @@
   .dropdown-content {
     display: none;
     position: absolute;
-    transform: translateX(10px); // 우측 상단 네비게이션 바가 내려올때 박스 오른쪽으로 움직임
+    left: 10px; // 우측 상단 네비게이션 바가 내려올때 박스 오른쪽으로 움직임
     background-color: darken($background-color, 3%);
     box-shadow: $box-shadow;
     z-index: 1;
