@@ -16,5 +16,5 @@ main:
         url: /ai/
       - title: "TECH NEWS"
         url: /news/
-      - title: "ETC"
-        url: /etc/
+  - title: "Other"
+    url: /other/
