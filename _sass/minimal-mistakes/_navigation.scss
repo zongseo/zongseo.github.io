@@ -217,7 +217,7 @@
 // to be shared by both hidden link and visible link
   .dropdown {
     // float: left;
-    width: 240px;
+    width: auto;
     box-sizing: border-box;
   }
 
@@ -225,7 +225,6 @@
     display: none;
     position: absolute;
     background-color: darken($background-color, 3%);
-    width: 240px;
     box-shadow: $box-shadow;
     z-index: 1;
     box-sizing: border-box;
@@ -272,7 +271,7 @@
         bottom: 0;
         height: 4px;
         background: $primary-color;
-        width: 100%;
+        width: 200px;
         -webkit-transition: $global-transition;
         transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
@@ -348,14 +347,6 @@
       &:last-child {
         border-bottom: none;
       }
-    }
-
-    .dropdown {
-      width: auto;
-    }
-
-    .dropdown-item {
-      padding: 10px;
     }
   }//hidden link
   
