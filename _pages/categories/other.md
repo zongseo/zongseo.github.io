@@ -1,6 +1,6 @@
 ---
 title: "OTHER"
-taxonomy: Other
+taxonomy: OTHER
 layout: category
 permalink: /other/
 author_profile: true
