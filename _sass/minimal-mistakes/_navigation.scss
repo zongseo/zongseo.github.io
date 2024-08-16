@@ -219,11 +219,13 @@
     // float: left;
     width: auto;
     box-sizing: border-box;
+    position: relative; /* 부모 요소 기준으로 자식 요소가 위치하도록 설정 */
   }
 
   .dropdown-content {
     display: none;
     position: absolute;
+    left: 10px; // 우측 상단 네비게이션 바가 내려올때 박스 오른쪽으로 움직임
     background-color: darken($background-color, 3%);
     box-shadow: $box-shadow;
     z-index: 1;
@@ -232,7 +234,6 @@
 
   .dropdown:hover .dropdown-content {
     display: block;
-    left: 10px; // 우측 상단 네비게이션 바가 내려올때 박스 오른쪽으로 움직임
     // font-size: 17px;
   }
 
