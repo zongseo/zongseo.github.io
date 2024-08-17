@@ -75,3 +75,11 @@ body {
     margin: 0 auto;
     display: block;
 }
+
+.bar{
+	position: fixed;
+	top: 0px; left: 0px;
+	width: 0%; height: 5px;
+	background: linear-gradient(to right, white, #6F777D);
+	z-index: 9999999;
+}
