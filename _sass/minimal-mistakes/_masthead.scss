@@ -13,7 +13,7 @@
   z-index: 20;
   background: white;
   width: 100%;
-  height: 76px;
+  height: $masthead-height;
 
   &__inner-wrap {
     @include clearfix;
