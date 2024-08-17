@@ -18,7 +18,8 @@
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
-	@@ -23,8 +29,9 @@
+    display: flex;
+    -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
@@ -27,7 +28,16 @@
     @include breakpoint($x-large) {
       max-width: $max-width;
     }
-	@@ -44,13 +51,15 @@
+    nav {
+      z-index: 10;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+}
+.site-logo img {
+  max-height: 2rem;
 }
 
 .site-title {
@@ -41,7 +51,8 @@
 }
 
 .site-subtitle {
-	@@ -59,18 +68,19 @@
+  display: block;
+  font-size: $type-size-8;
 }
 
 .masthead__menu {
@@ -60,7 +71,16 @@
     }
   }
 
-	@@ -88,7 +98,7 @@
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
   white-space: nowrap;
 
   &--lg {
