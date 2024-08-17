@@ -11,6 +11,8 @@
   animation-delay: 0.15s;
   z-index: 20;
   background: white;
+  width: 100%
+  height: 62px;
 
   &__inner-wrap {
     @include clearfix;
