@@ -4,7 +4,6 @@
 
 .masthead {
   position: fixed;
-  top: 0;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -13,7 +12,7 @@
   z-index: 20;
   width: 100%;
   background: white;
-  height: 70px;
+  height: 65px;
 
   &__inner-wrap {
     @include clearfix;
@@ -27,7 +26,7 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-5;
+    font-size: medium;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
