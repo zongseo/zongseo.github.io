@@ -12,14 +12,11 @@
   z-index: 20;
   width: 100%;
   background: white;
-  height: 65px;
 
   &__inner-wrap {
     @include clearfix;
-    // margin-inline: auto;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0.4em;
+    margin-inline: auto;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
