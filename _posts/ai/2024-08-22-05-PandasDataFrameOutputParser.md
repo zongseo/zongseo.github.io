@@ -83,15 +83,15 @@ author_profile: false
 
 
 
-**Pandas DataFrame**은 Python 프로그래밍 언어에서 널리 사용되는 데이터 구조로, 데이터 조작 및 분석을 위한 강력한 도구입니다. DataFrame은 구조화된 데이터를 효과적으로 다루기 위한 포괄적인 도구 세트를 제공하며, 이를 통해 데이터 정제, 변환 및 분석과 같은 다양한 작업을 수행할 수 있습니다.
+**Pandas DataFrame**은 Python 프로그래밍 언어에서 널리 사용되는 데이터 구조로, 데이터 조작 및 분석을 위한 강력한 도구입니다. DataFrame은 구조화된 데이터를 효과적으로 다루기 위한 포괄적인 도구 세트를 제공하며, 이를 통해 데이터 정제, 변환 및 분석과 같은 다양한 작업을 수행할 수 있습니다.<br/>
 
 
 
-이 **출력 파서**는 사용자가 임의의 Pandas DataFrame을 지정하여 해당 DataFrame에서 데이터를 추출하고, 이를 형식화된 사전(dictionary) 형태로 조회할 수 있게 해주는 LLM(Large Language Model) 기반 도구입니다.
+이 **출력 파서**는 사용자가 임의의 Pandas DataFrame을 지정하여 해당 DataFrame에서 데이터를 추출하고, 이를 형식화된 사전(dictionary) 형태로 조회할 수 있게 해주는 LLM(Large Language Model) 기반 도구입니다.<br/>
 
 
 
-**.[env파일](https://zongseo.github.io/ai/env/) 우선 설정 필요**
+**.[env파일](https://zongseo.github.io/ai/env/) 우선 설정 필요** <br/>
 
 
 ```python
