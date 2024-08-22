@@ -91,7 +91,7 @@ author_profile: false
 
 
 
-**.[env파일](https://zongseo.github.io/ai/env/) 우선 설정 필요** <br/>
+**[.env파일](https://zongseo.github.io/ai/env/) 우선 설정 필요** <br/>
 
 
 ```python
