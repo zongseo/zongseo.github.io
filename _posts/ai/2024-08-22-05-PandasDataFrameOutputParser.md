@@ -488,10 +488,9 @@ print(parser_output)
 df["Fare"].mean()
 ```
 
-
-**Written by:** teddynote
-
-
 <pre>
 22.19937
 </pre>
+
+
+**Written by:** teddynote
