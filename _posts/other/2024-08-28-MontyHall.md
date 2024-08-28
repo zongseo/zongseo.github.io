@@ -96,44 +96,6 @@ print(f"선택을 바꾸었을 때 승리할 확률: {win_rate_switch:.2f}")
 # ! pip install matplotlib
 ```
 
-<pre>
-Collecting matplotlib
-  Using cached matplotlib-3.9.2-cp311-cp311-macosx_11_0_arm64.whl.metadata (11 kB)
-Collecting contourpy>=1.0.1 (from matplotlib)
-  Downloading contourpy-1.3.0-cp311-cp311-macosx_11_0_arm64.whl.metadata (5.4 kB)
-Collecting cycler>=0.10 (from matplotlib)
-  Using cached cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
-Collecting fonttools>=4.22.0 (from matplotlib)
-  Using cached fonttools-4.53.1-cp311-cp311-macosx_11_0_arm64.whl.metadata (162 kB)
-Collecting kiwisolver>=1.3.1 (from matplotlib)
-  Using cached kiwisolver-1.4.5-cp311-cp311-macosx_11_0_arm64.whl.metadata (6.4 kB)
-Collecting numpy>=1.23 (from matplotlib)
-  Downloading numpy-2.1.0-cp311-cp311-macosx_14_0_arm64.whl.metadata (60 kB)
-[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m60.9/60.9 kB[0m [31m3.0 MB/s[0m eta [36m0:00:00[0m
-[?25hRequirement already satisfied: packaging>=20.0 in /Users/castle/.pyenv/versions/3.11.9/lib/python3.11/site-packages (from matplotlib) (24.1)
-Collecting pillow>=8 (from matplotlib)
-  Using cached pillow-10.4.0-cp311-cp311-macosx_11_0_arm64.whl.metadata (9.2 kB)
-Collecting pyparsing>=2.3.1 (from matplotlib)
-  Downloading pyparsing-3.1.4-py3-none-any.whl.metadata (5.1 kB)
-Requirement already satisfied: python-dateutil>=2.7 in /Users/castle/.pyenv/versions/3.11.9/lib/python3.11/site-packages (from matplotlib) (2.9.0.post0)
-Requirement already satisfied: six>=1.5 in /Users/castle/.pyenv/versions/3.11.9/lib/python3.11/site-packages (from python-dateutil>=2.7->matplotlib) (1.16.0)
-Using cached matplotlib-3.9.2-cp311-cp311-macosx_11_0_arm64.whl (7.8 MB)
-Downloading contourpy-1.3.0-cp311-cp311-macosx_11_0_arm64.whl (250 kB)
-[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m250.9/250.9 kB[0m [31m6.0 MB/s[0m eta [36m0:00:00[0m00:01[0m
-[?25hUsing cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
-Using cached fonttools-4.53.1-cp311-cp311-macosx_11_0_arm64.whl (2.2 MB)
-Using cached kiwisolver-1.4.5-cp311-cp311-macosx_11_0_arm64.whl (66 kB)
-Downloading numpy-2.1.0-cp311-cp311-macosx_14_0_arm64.whl (5.4 MB)
-[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m5.4/5.4 MB[0m [31m13.7 MB/s[0m eta [36m0:00:00[0ma [36m0:00:01[0m
-[?25hUsing cached pillow-10.4.0-cp311-cp311-macosx_11_0_arm64.whl (3.4 MB)
-Downloading pyparsing-3.1.4-py3-none-any.whl (104 kB)
-[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m104.1/104.1 kB[0m [31m13.6 MB/s[0m eta [36m0:00:00[0m
-[?25hInstalling collected packages: pyparsing, pillow, numpy, kiwisolver, fonttools, cycler, contourpy, matplotlib
-Successfully installed contourpy-1.3.0 cycler-0.12.1 fonttools-4.53.1 kiwisolver-1.4.5 matplotlib-3.9.2 numpy-2.1.0 pillow-10.4.0 pyparsing-3.1.4
-
-[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip is available: [0m[31;49m24.0[0m[39;49m -> [0m[32;49m24.2[0m
-[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip install --upgrade pip[0m
-</pre>
 
 ```python
 ## 그래프 시각화
