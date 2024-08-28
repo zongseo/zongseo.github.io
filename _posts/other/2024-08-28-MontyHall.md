@@ -11,10 +11,9 @@ author_profile: false
 # 몬티홀 문제(Monty Hall problem)
 
 
+몬티홀 문제는 세계에서 가장 유명한 확률 역설입니다. 퀴즈쇼 사회자인 몬티 홀은 세 개의 문 중 하나의 뒤에 자동차가 있고, 두 개의 문 뒤에는 염소가 있다고 알려줍니다. 이때 참가자가 자동차를 고를 확률은 분명히 1/3이죠. 이때 자비로운 사회자가 문 하나를 선택하면 남아 있는 두 개의 문 중에서 염소가 있는 문 하나를 열어서 보여주고 다른 문을 선택할 기회를 한 번 더 줍니다.
 
-> 몬티홀 문제는 세계에서 가장 유명한 확률 역설입니다. 퀴즈쇼 사회자인 몬티 홀은 세 개의 문 중 하나의 뒤에 자동차가 있고, 두 개의 문 뒤에는 염소가 있다고 알려줍니다. 이때 참가자가 자동차를 고를 확률은 분명히 1/3이죠. 이때 자비로운 사회자가 문 하나를 선택하면 남아 있는 두 개의 문 중에서 염소가 있는 문 하나를 열어서 보여주고 다른 문을 선택할 기회를 한 번 더 줍니다.
-> 
-> 이때 참가자는 문을 바꾸는게 좋은 선택일까요?? 아니면 사회자의 심리전에 불과할까요??
+이때 참가자는 문을 바꾸는게 좋은 선택일까요?? 아니면 사회자의 심리전에 불과할까요??
 
 <p>
   <img src="https://github.com/user-attachments/assets/4abd6c6e-538c-4006-8aba-da87c74dd0d1" alt="이미지 설명 1" width="30%" style="display:inline-block;">
@@ -22,13 +21,11 @@ author_profile: false
   <img src="https://github.com/user-attachments/assets/6368df9a-4d2f-41a9-a784-085380f035b1" alt="이미지 설명 3" width="30%" style="display:inline-block;">
 </p>
 
-
-![IMG_5365](https://github.com/user-attachments/assets/4abd6c6e-538c-4006-8aba-da87c74dd0d1) |![IMG_5366](https://github.com/user-attachments/assets/57214cc2-c24c-4995-b6bb-484f80a2f40c) |![IMG_5367](https://github.com/user-attachments/assets/6368df9a-4d2f-41a9-a784-085380f035b1)
---- | --- | --- |
-
-
-![IMG_5368](https://github.com/user-attachments/assets/f5e5e4fa-8d9c-4e51-933c-00119aaeb508) |![IMG_5369](https://github.com/user-attachments/assets/5608bc5d-297b-4124-89de-47ff62bedaf4) |![IMG_5370](https://github.com/user-attachments/assets/47b15b8b-6f95-43eb-87d5-0a62d351e27c)
---- | --- | --- |
+<p>
+  <img src="https://github.com/user-attachments/assets/f5e5e4fa-8d9c-4e51-933c-00119aaeb508" alt="이미지 설명 1" width="30%" style="display:inline-block;">
+  <img src="https://github.com/user-attachments/assets/5608bc5d-297b-4124-89de-47ff62bedaf4" alt="이미지 설명 2" width="30%" style="display:inline-block;">
+  <img src="https://github.com/user-attachments/assets/47b15b8b-6f95-43eb-87d5-0a62d351e27c" alt="이미지 설명 3" width="30%" style="display:inline-block;">
+</p>
 
 
 ## 예시 파이썬 코드
