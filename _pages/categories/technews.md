@@ -2,6 +2,6 @@
 title: "TECH NEWS"
 taxonomy: TECH NEWS
 layout: category
-permalink: /news/
+permalink: /tech-news/
 author_profile: false
 ---
