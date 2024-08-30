@@ -1,7 +1,7 @@
 ---
-title: "AI"
-taxonomy: AI
+title: "NLP"
+taxonomy: NLP
 layout: category
-permalink: /ai/
-author_profile: true
+permalink: /nlp/
+author_profile: false
 ---
