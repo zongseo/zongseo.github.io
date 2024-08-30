@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Langchain으로 엑셀 데이터 자동 분석 및 요약하기"
-categories: AI
+categories: NLP
 tag: [langchain, llm, ai]
 toc: true
 author_profile: false
