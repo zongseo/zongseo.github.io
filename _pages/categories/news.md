@@ -1,6 +1,6 @@
 ---
 title: "TECH NEWS"
-taxonomy: NEWS
+taxonomy: TECH NEWS
 layout: category
 permalink: /news/
 author_profile: false
