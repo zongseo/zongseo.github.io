@@ -17,7 +17,7 @@ main:
   - title: "Explore"
     sublinks:
       - title: "Tech News"
-        url: /news/
+        url: /tech-news/
       - title: "Other"
         url: /other/
   - title: "Categories"
