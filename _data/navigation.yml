@@ -8,13 +8,17 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Categories"
+  - title: "Study Hub"
     sublinks:
-      - title: "ALL"
-        url: /categories/
-      - title: "AI"
-        url: /ai/
-      - title: "TECH NEWS"
+      - title: "NLP"
+        url: /nlp/
+      - title: "Algorithm"
+        url: /algorithm/
+  - title: "Explore"
+    sublinks:
+      - title: "Tech News"
         url: /news/
-  - title: "Other"
-    url: /other/
+      - title: "Other"
+        url: /other/
+  - title: "Categories"
+    url: /categories/
