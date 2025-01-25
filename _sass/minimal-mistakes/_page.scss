@@ -67,7 +67,8 @@ body {
 }
 
 .page__title {
-  margin-top: 0;
+  margin-top: -76px;
+  padding-top: 76px;
   line-height: 1;
 
   a {
@@ -350,8 +351,10 @@ body {
 }
 
 .taxonomy__section {
-  margin-bottom: 2em;
-  padding-bottom: 1em;
+  // margin-bottom: 2em;
+  // padding-bottom: 1em;
+  padding-top: 76px;
+  margin-top: -76px;
 
   &:not(:last-child) {
     border-bottom: solid 1px $border-color;
